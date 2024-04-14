@@ -1,0 +1,4 @@
+Baselines are implemented with public code.
+SECA: https://github.com/sinadabiri/Deep-Semi-Supervised-GPS-Transport-Mode
+DeepStay: https://github.com/christianll9/deepstay
+OPTG: https://github.com/icps/tmc_ordinal_patterns
